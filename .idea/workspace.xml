@@ -24,8 +24,8 @@
       <file leaf-file-name="joins-solutions.sql" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/joins-solutions.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.73007715">
-              <caret line="37" column="64" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+            <state vertical-scroll-proportion="0.15167095">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -47,8 +47,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-480" />
-    <option name="y" value="-1021" />
+    <option name="x" value="-992" />
+    <option name="y" value="-976" />
     <option name="width" value="1070" />
     <option name="height" value="899" />
   </component>
@@ -115,7 +115,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-480" y="-1021" width="1070" height="899" extended-state="0" />
+    <frame x="-992" y="-976" width="1070" height="899" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -154,8 +154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/joins-solutions.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73007715">
-          <caret line="37" column="64" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+        <state vertical-scroll-proportion="0.15167095">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding />
         </state>
       </provider>
